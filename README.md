@@ -15,6 +15,11 @@ Run the app<br>
 ### Functional Diagram
 <img width="1440" alt="Screen Shot 2019-11-09 at 11 35 07 PM" src="https://user-images.githubusercontent.com/52217063/68538904-a3926e00-0349-11ea-81a4-9f2ab43cc58d.png">
 
+### CRUD METHOD
+
+## ADD
+![](add.gif)
+
 ### Author
 Brian Shin
 
