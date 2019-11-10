@@ -17,3 +17,6 @@ Run the app<br>
 
 ### Author
 Brian Shin
+
+### LICENSE
+[MIT](https://github.com/bshin9/ProperAdmin/blob/master/LICENSE)
