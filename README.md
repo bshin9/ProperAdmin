@@ -6,11 +6,14 @@ This is our fourth phase of the e-commerce project. We created an admin app usin
 Start by cloning the repo<br>
 `git clone https://github.com/bshin9/ProperAdmin`
 
-Install needed modules in the root<br>
+Install needed modules in the root admin-app<br>
 `npm install`
 
 Run the app<br>
 `npm start`
+
+Additionally, go into the ProductsApi through another terminal<br>
+`dotnet run`
 
 ### Functional Diagram
 <img width="1440" alt="Screen Shot 2019-11-09 at 11 35 07 PM" src="https://user-images.githubusercontent.com/52217063/68538904-a3926e00-0349-11ea-81a4-9f2ab43cc58d.png">
