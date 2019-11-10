@@ -12,7 +12,7 @@ Install needed modules in the root admin-app<br>
 Run the app<br>
 `npm start`
 
-Additionally, go into the ProductsApi through another terminal<br>
+Additionally, go into the ProductsApi through another terminal and run the server<br>
 `dotnet run`
 
 ### Functional Diagram
