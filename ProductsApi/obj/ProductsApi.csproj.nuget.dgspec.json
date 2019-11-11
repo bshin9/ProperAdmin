@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/changhyunshin/Documents/Admin/admin-app/ProductsApi/ProductsApi.csproj": {}
+    "/Users/changhyunshin/Documents/Admin/ProductsApi/ProductsApi.csproj": {}
   },
   "projects": {
-    "/Users/changhyunshin/Documents/Admin/admin-app/ProductsApi/ProductsApi.csproj": {
+    "/Users/changhyunshin/Documents/Admin/ProductsApi/ProductsApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/changhyunshin/Documents/Admin/admin-app/ProductsApi/ProductsApi.csproj",
+        "projectUniqueName": "/Users/changhyunshin/Documents/Admin/ProductsApi/ProductsApi.csproj",
         "projectName": "ProductsApi",
-        "projectPath": "/Users/changhyunshin/Documents/Admin/admin-app/ProductsApi/ProductsApi.csproj",
+        "projectPath": "/Users/changhyunshin/Documents/Admin/ProductsApi/ProductsApi.csproj",
         "packagesPath": "/Users/changhyunshin/.nuget/packages/",
-        "outputPath": "/Users/changhyunshin/Documents/Admin/admin-app/ProductsApi/obj/",
+        "outputPath": "/Users/changhyunshin/Documents/Admin/ProductsApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/changhyunshin/.nuget/NuGet/NuGet.Config"
