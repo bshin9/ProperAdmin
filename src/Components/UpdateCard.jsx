@@ -6,12 +6,12 @@ const UpdateCard = ({ name, category, description }) => {
   const [prodname, setProductName] = useState([]);
   const [proddescription, setProductDescription] = useState([]);
   const [prodcategory, setCategory] = useState([]);
-  const [products, setProducts] = useState();
 
   const handleUpdate = () => {
+    const url = `/api/Products/${id}`;
     axios
-      .put(`/api/Products/${id}`, {
-        Id: id,
+      .put(url, {
+        Id: parseInt(id),
         ProductName: prodname,
         ProductDescription: proddescription,
         Category: prodcategory
@@ -57,7 +57,6 @@ const UpdateCard = ({ name, category, description }) => {
                   onChange={e => setProductDescription(e.target.value)}
                 />
               </div>
-              
             </form>
             <button onClick={handleUpdate} className="btn btn-secondary">
               Update

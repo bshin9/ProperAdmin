@@ -8,7 +8,7 @@ import React, { useState, useEffect } from "react";
 
 const Dashboard = () => {
   const [products, setProducts] = useState();
-  // using a componentDidMount here to retrieve my products from my endpoint
+  const [id, setID] = useState([]);
 
   useEffect(() => {
     axios
@@ -61,7 +61,7 @@ const Dashboard = () => {
                 <div className="card-body">
                   <h3>Products</h3>
                   <h4 className="display-4">
-                    <i className="fas fa-pencil-alt" /> 6
+                    <i className="fas fa-pencil-alt" />{setID}
                   </h4>
                   <NavLink
                     className="btn btn-outline-light btn-sm"
