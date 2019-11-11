@@ -21,13 +21,15 @@ Additionally, go into the ProductsApi through another terminal and run the serve
 ### CRUD METHOD
 
 #### ADD
-<img width="1440" alt="Adding" src="https://user-images.githubusercontent.com/52217063/68539316-895b8e80-034f-11ea-8da4-a1471a5d64e8.png">
+
+![Create Giphy](./Design/ADD.gif)
 
 #### UPDATE
-<img width="1440" alt="Editing" src="https://user-images.githubusercontent.com/52217063/68539320-a8f2b700-034f-11ea-993b-a250c2bce6e6.png">
+
+![Update Giphy](./Design/UPDATED.gif)
 
 #### DELETE
-<img width="1440" alt="Delete" src="https://user-images.githubusercontent.com/52217063/68539324-bad45a00-034f-11ea-8525-a1b1b2b52484.png">
+![Delete Giphy](./Design/DELETE.gif)
 
 ### Author
 Brian Shin
