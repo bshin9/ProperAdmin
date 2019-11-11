@@ -12,7 +12,9 @@ Install needed modules in the root admin-app<br>
 Run the app<br>
 `npm start`
 
-Additionally, go into the ProductsApi through another terminal and run the server<br>
+Make sure to install the C# extension if you're using VSCode<br>
+
+Next, go into the ProductsApi through another terminal and run the server<br>
 `dotnet run`
 
 ### Functional Diagram
