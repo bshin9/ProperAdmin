@@ -13,6 +13,7 @@ Run the app<br>
 `npm start`
 
 Make sure to install the C# extension if you're using VSCode<br>
+
 Next, go into the ProductsApi through another terminal and run the server<br>
 `dotnet run`
 
